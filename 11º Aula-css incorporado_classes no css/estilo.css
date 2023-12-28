@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#topo_site{
+    padding: 20px;
+    width: 100%;
+    background: rgb(0, 0, 92);
+    text-align: center;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: white;
+}
+#div_central_01{
+ position: relative;
+ margin: auto;
+ width: 640px;
+}
+#div_central_02{
+    position: relative;
+    margin: auto;
+    width: 1000px;
+
+}
+.div_layout_01{
+    background: #7c7b79;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    float: left;
+    border-radius: 20px;
+    box-shadow: 15px 10px 10px #644545;
+}
+.label_01{
+    color: #fff;
+    font-size: 20px;
+    font-family: Forte;
+    position: relative;
+    top: 35%;
+    font-style: italic;
+    font-weight: bolder;
+    text-shadow: 5px 10px 2px #77f906;
+}
+.div_layout_02{
+    padding: 20px;
+    position: relative;
+    background: #000;
+    top: 50px;
+    width: 1000px;
+    margin: 10px;
+    float: left;
+    border-radius: 20px;
+ }
+.p_formatacao{
+    color: #fff;
+    font-size: 20px;
+    font-family: Sans MS;
+    font-style: italic;
+    border: double;
+    padding: 10px;
+ }
+ .p_alinhamento_02{
+     position: relative;
+     text-shadow: #44d041;
+     margin-left: 500px;
+ }
+ .borda_vermelha{
+     border:solid 10px #fd0606;
+ }
